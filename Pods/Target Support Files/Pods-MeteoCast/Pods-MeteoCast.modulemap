@@ -1,0 +1,6 @@
+framework module Pods_MeteoCast {
+  umbrella header "Pods-MeteoCast-umbrella.h"
+
+  export *
+  module * { export * }
+}
